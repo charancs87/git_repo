@@ -1,8 +1,5 @@
 def add(n1,n2):
     return(n1+n2)
-
-
-
-a=int(input("Enter num1 :"))
-b=int(input("Enter num2 :"))
-print("sum=",add(a,b))
+num1=int(input("enter a number="))
+num2=int(input("enter a number="))
+print("sum="add(num1,num2))
